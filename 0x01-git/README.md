@@ -1,2 +1,2 @@
 git
-updateing readme file
+updating readme file
